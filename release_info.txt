@@ -1,0 +1,24 @@
+StreamVault rebranded release (v1.0.0)
+build time   : 2026-09-30 14:03:48
+source repo  : khalifarsm/StreamVault-IPTV @ main (c5e75a5)
+
+--- StreamVault (no-push) ---
+package       : com.isvuio.motormir
+applicationId : com.isvuio.motormir
+theme         : Theme.Pankuxoen
+rootProject   : Umnorovor
+version       : 1.0.0 (100)
+keystore      : keystore/moqukumovedraax.jks (alias moqukumovedraax)
+signing cheat : storepass=moqukumovedraax7368 keypass=moqukumovedraax7368
+old package   : com.streamvault
+frozen        : -
+signing mode  : post-sign (apksigner)
+class renames :
+    StreamVaultApp               -> Enloennes
+    MainActivity                 -> Naisro
+    CastRouteChooserActivity     -> Nakeltorve
+    TvInputSetupActivity         -> Mirtylokel
+    ExternalPlayerProbeActivity  -> Natyende
+    StreamVaultTvInputService    -> Miiodekel
+    DownloadForegroundService    -> Hexmium
+APK files   : release-release.apk
