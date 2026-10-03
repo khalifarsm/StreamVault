@@ -1,24 +1,24 @@
 StreamVault rebranded release (v1.0.0)
-build time   : 2026-09-30 14:46:23
-source repo  : khalifarsm/StreamVault-IPTV @ main (c5e75a5)
+build time   : 2026-10-03 17:37:14
+source repo  : khalifarsm/StreamVault-IPTV @ main (9d3a022)
 
 --- StreamVault (release) ---
-package       : com.nesxi.zaalen
-applicationId : com.nesxi.zaalen
-theme         : Theme.Enpanxilu
-rootProject   : Tortor
+package       : com.sysygolna.entylotor
+applicationId : com.sysygolna.entylotor
+theme         : Theme.Mirna
+rootProject   : Movor
 version       : 1.0.0 (100)
-keystore      : keystore/devorarsyrakel.jks (alias devorarsyrakel)
-signing cheat : storepass=devorarsyrakel2932 keypass=devorarsyrakel2932
+keystore      : keystore/qutynestordra.jks (alias qutynestordra)
+signing cheat : storepass=qutynestordra9119 keypass=qutynestordra9119
 old package   : com.streamvault
 frozen        : -
 signing mode  : post-sign (apksigner)
 class renames :
-    StreamVaultApp               -> Quarro
-    MainActivity                 -> Mirisxohex
-    CastRouteChooserActivity     -> Nesnesio
-    TvInputSetupActivity         -> Mirlu
-    ExternalPlayerProbeActivity  -> Belodeax
-    StreamVaultTvInputService    -> Drakaisnes
-    DownloadForegroundService    -> Veiora
+    StreamVaultApp               -> Lutovunes
+    MainActivity                 -> Synakelty
+    CastRouteChooserActivity     -> Naioxo
+    TvInputSetupActivity         -> Arlohex
+    ExternalPlayerProbeActivity  -> Isvepan
+    StreamVaultTvInputService    -> Umenhexdra
+    DownloadForegroundService    -> Veaxto
 APK files   : app-release.apk
